@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weight Monitoring App</string>
+    <string name="add_button_text">+</string>
+    <string name="save_button_text">Save</string>
+    <string name="weight_field_text">Enter your weight</string>
+    <string name="delete_button_description">Delete</string>
+    <string name="back_to_main_page_button_description">Back to main page</string>
+    <string name="date_view_description">date</string>
+    <string name="weight_view_description">weight</string>
+    <string name="add_button_description">Add record</string>
+    <string name="save_button_description">Save</string>
+</resources>
